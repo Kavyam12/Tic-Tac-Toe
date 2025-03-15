@@ -2,10 +2,10 @@
 This is an basic game made using HTML, CSS and JavaScript. This is an beginner friendly, implementation where two players take turn to mark X and O's on a 3x3 grid.
 
 Features:
--> Simple and easy to use UI.
--> Two players can play locally.
--> Dynamic winner anouncement.
--> A reset button which resets the entire grid making it ready for playing another round.
+1. Simple and easy to use UI.
+2. Two players can play locally.
+3. Dynamic winner anouncement.
+4. A reset button which resets the entire grid making it ready for playing another round.
 
 ScreenShot:
 ![image](https://github.com/user-attachments/assets/dcb5ff75-3b4a-4ceb-91af-a56b1f13d160)
